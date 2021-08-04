@@ -5,7 +5,7 @@ body{
 .header-bg{
     background-image: url("desktop/image-header.jpg");
     background-repeat: no-repeat;
-    height: 90vh;
+    height: 100vh;
     background-size: cover;
     background-position: center center;
     /* margin-bottom: 10px; */
@@ -114,7 +114,7 @@ body{
 }
 .client{
     display: inline-block;
-    background-color: rgb(245, 240, 226);
+    background-color: rgb(252, 249, 240);
 }
 .client-h1{
     font-family: 'Fraunces', serif;
