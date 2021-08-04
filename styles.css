@@ -115,6 +115,7 @@ body{
 .client{
     display: inline-block;
     background-color: rgb(252, 249, 240);
+    margin: 0px;
 }
 .client-h1{
     font-family: 'Fraunces', serif;
